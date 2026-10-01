@@ -1,4 +1,15 @@
-# Proyecto_arqui
+# Simulador de fluidos
+
+<!-- academic-catalog:start -->
+**UC3M · 3.º curso · Arquitectura de computadores**
+
+Simulación de fluidos por partículas y bloques espaciales en C++20, con lectura de trazas, pruebas unitarias y pruebas funcionales.
+
+**Tecnologías:** C++20, CMake, GoogleTest.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 
 
 ## Instalaciones previas necesarias para el funcionamiento del programa
